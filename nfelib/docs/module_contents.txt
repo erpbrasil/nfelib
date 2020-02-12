@@ -1,0 +1,23 @@
+Module contents
+=================
+
+.. automodule:: distDFeInt_v1.01.xsd
+    :members:
+    :undoc-members:
+    :show-inheritance:
+.. automodule:: resEvento_v1.01.xsd
+    :members:
+    :undoc-members:
+    :show-inheritance:
+.. automodule:: resNFe_v1.01.xsd
+    :members:
+    :undoc-members:
+    :show-inheritance:
+.. automodule:: retDistDFeInt_v1.01.xsd
+    :members:
+    :undoc-members:
+    :show-inheritance:
+.. automodule:: tiposDistDFe_v1.01.xsd
+    :members:
+    :undoc-members:
+    :show-inheritance:
