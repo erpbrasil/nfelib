@@ -21,3 +21,72 @@ Module contents
     :members:
     :undoc-members:
     :show-inheritance:
+
+.. automodule:: leiauteConfRecebto_v1.00.xsd
+    :members:
+    :undoc-members:
+    :show-inheritance:
+.. automodule:: tiposBasico_v1.03.xsd
+    :members:
+    :undoc-members:
+    :show-inheritance:
+.. automodule:: envConfRecebto_v1.00.xsd
+    :members:
+    :undoc-members:
+    :show-inheritance:
+.. automodule:: e210220_v1.00.xsd
+    :members:
+    :undoc-members:
+    :show-inheritance:
+.. automodule:: e210200_v1.00.xsd
+    :members:
+    :undoc-members:
+    :show-inheritance:
+.. automodule:: downloadNFe_v1.00.xsd
+    :members:
+    :undoc-members:
+    :show-inheritance:
+.. automodule:: retEnvConfRecebto_v1.00.xsd
+    :members:
+    :undoc-members:
+    :show-inheritance:
+.. automodule:: e210210_v1.00.xsd
+    :members:
+    :undoc-members:
+    :show-inheritance:
+.. automodule:: confRecebto_v1.00.xsd
+    :members:
+    :undoc-members:
+    :show-inheritance:
+.. automodule:: xmldsig-core-schema_v1.01.xsd
+    :members:
+    :undoc-members:
+    :show-inheritance:
+.. automodule:: e210240_v1.00.xsd
+    :members:
+    :undoc-members:
+    :show-inheritance:
+.. automodule:: leiauteDownloadNFe_v1.00.xsd
+    :members:
+    :undoc-members:
+    :show-inheritance:
+.. automodule:: leiauteConsNFeDest_v1.01.xsd
+    :members:
+    :undoc-members:
+    :show-inheritance:
+.. automodule:: retDownloadNFe_v1.00.xsd
+    :members:
+    :undoc-members:
+    :show-inheritance:
+.. automodule:: procConfRecebtoNFe_v1.00.xsd
+    :members:
+    :undoc-members:
+    :show-inheritance:
+.. automodule:: consNFeDest_v1.01.xsd
+    :members:
+    :undoc-members:
+    :show-inheritance:
+.. automodule:: retconsNFeDest_v1.01.xsd
+    :members:
+    :undoc-members:
+    :show-inheritance:
