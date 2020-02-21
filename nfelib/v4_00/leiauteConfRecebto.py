@@ -782,7 +782,7 @@ class TEvento(GeneratedsSuper):
         if self.infEvento is not None:
             self.infEvento.export(outfile, level, namespace_, name_='infEvento', pretty_print=pretty_print)
         if self.Signature is not None:
-            self.Signature.export(outfile, level, namespace_='ds:', name_='Signature', pretty_print=pretty_print)
+            self.Signature.export(outfile, level, namespace_='', name_='Signature', pretty_print=pretty_print)
     def build(self, node):
         already_processed = set()
         self.buildAttributes(node, node.attrib, already_processed)
@@ -884,7 +884,7 @@ class TretEvento(GeneratedsSuper):
         if self.infEvento is not None:
             self.infEvento.export(outfile, level, namespace_, name_='infEvento', pretty_print=pretty_print)
         if self.Signature is not None:
-            self.Signature.export(outfile, level, namespace_='ds:', name_='Signature', pretty_print=pretty_print)
+            self.Signature.export(outfile, level, namespace_='', name_='Signature', pretty_print=pretty_print)
     def build(self, node):
         already_processed = set()
         self.buildAttributes(node, node.attrib, already_processed)
