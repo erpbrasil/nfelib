@@ -1745,7 +1745,7 @@ class ReferenceType(GeneratedsSuper):
             self.DigestMethod.export(outfile, level, namespace_, name_='DigestMethod', pretty_print=pretty_print)
         if self.DigestValue is not None:
             showIndent(outfile, level, pretty_print)
-            outfile.write('<DigestValue>%s</DigestValue>%s' % (self.gds_format_base64(self.DigestValue, input_name='DigestValue'), eol_))
+            outfile.write('<DigestValue>%s</DigestValue>%s' % (self.gds_format_base64(self.DigestValue, input_name='DigestValue').decode("utf-8"), eol_))
     def build(self, node):
         already_processed = set()
         self.buildAttributes(node, node.attrib, already_processed)
