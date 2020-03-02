@@ -1159,7 +1159,11 @@ def parseString(inString, silence=False):
         rootTag = 'retDistDFeInt'
         rootClass = retDistDFeInt
     rootObj = rootClass.factory()
-    rootObj.build(rootNode)
+
+    # TODO: Melhorar Solução
+    rootObj.build(rootNode.getchildren()[0])
+    # rootObj.build(rootNode)
+
     # Enable Python to collect the space used by the DOM.
     if not silence:
         sys.stdout.write('<?xml version="1.0" ?>\n')
